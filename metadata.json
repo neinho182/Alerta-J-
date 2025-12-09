@@ -1,0 +1,7 @@
+{
+  "name": "AlertaJá Cabreúva",
+  "description": "Aplicativo de alertas de trânsito e segurança para motoboys e motoristas em Cabreúva-SP.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
